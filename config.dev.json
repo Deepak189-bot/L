@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "k1mazumi+489@yandex.com",
+		"password": "maoricute22",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Maori Bot",
+	"prefix": "!",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [61555814951548],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
