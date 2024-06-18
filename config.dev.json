@@ -40,10 +40,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
+			"email": "melodybenbenuto922@gmail.com",
 			"clientId": "61555814951548",
-			"clientSecret": "",
-			"refreshToken": "",
+			"clientSecret": "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",
+			"refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
